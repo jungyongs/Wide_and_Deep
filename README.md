@@ -7,7 +7,7 @@ Wide & Deep Learning for Recommender Systems
 Adult
 - https://archive.ics.uci.edu/dataset/2/adult
 
-## Example to Run : GMF
+## Example to Run
 ```
-python Wide_and_Deep.py
+python Wide_and_Deep.py --model 'wide_and_deep'
 ```
